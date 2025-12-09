@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 👋
 
 - 🔭 I’m currently working on [MinecraftHacks](https://github.com/thealexarias/minecraft-hacks), a Python-based toolkit that automates repetitive Minecraft tasks to save players hours of manual gameplay.
 - 🌱 I’m currently learning full-stack engineering at Code Platoon
